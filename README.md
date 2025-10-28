@@ -1,2 +1,2 @@
-# Massachusetts-General-Hospital-Report
+# Hospital-Report
 an amazing project
